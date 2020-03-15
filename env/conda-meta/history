@@ -1,0 +1,44 @@
+==> 2020-03-15 10:39:04 <==
+# cmd: C:\Users\pagan\Anaconda3\Scripts\conda-script.py create --prefix ./env pandas matplotlib seaborn numpy
+# conda version: 4.7.12
++defaults::blas-1.0-mkl
++defaults::ca-certificates-2020.1.1-0
++defaults::certifi-2019.11.28-py38_0
++defaults::cycler-0.10.0-py38_0
++defaults::freetype-2.9.1-ha9979f8_1
++defaults::icc_rt-2019.0.0-h0cc432a_1
++defaults::icu-58.2-ha66f8fd_1
++defaults::intel-openmp-2020.0-166
++defaults::jpeg-9b-hb83a4c4_2
++defaults::kiwisolver-1.0.1-py38ha925a31_0
++defaults::libpng-1.6.37-h2a8f88b_0
++defaults::matplotlib-3.1.3-py38_0
++defaults::matplotlib-base-3.1.3-py38h64f37c6_0
++defaults::mkl-2020.0-166
++defaults::mkl-service-2.3.0-py38hb782905_0
++defaults::mkl_fft-1.0.15-py38h14836fe_0
++defaults::mkl_random-1.1.0-py38hf9181ef_0
++defaults::numpy-1.18.1-py38h93ca92e_0
++defaults::numpy-base-1.18.1-py38hc3f5095_1
++defaults::openssl-1.1.1d-he774522_4
++defaults::pandas-1.0.1-py38h47e9c7a_0
++defaults::pip-20.0.2-py38_1
++defaults::pyparsing-2.4.6-py_0
++defaults::pyqt-5.9.2-py38ha925a31_4
++defaults::python-3.8.1-h5fd99cc_8_cpython
++defaults::python-dateutil-2.8.1-py_0
++defaults::pytz-2019.3-py_0
++defaults::qt-5.9.7-vc14h73c81de_0
++defaults::scipy-1.4.1-py38h9439919_0
++defaults::seaborn-0.10.0-py_0
++defaults::setuptools-46.0.0-py38_0
++defaults::sip-4.19.13-py38ha925a31_0
++defaults::six-1.14.0-py38_0
++defaults::sqlite-3.31.1-he774522_0
++defaults::tornado-6.0.4-py38he774522_1
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.16.27012-hf0eaf9b_1
++defaults::wheel-0.34.2-py38_0
++defaults::wincertstore-0.2-py38_0
++defaults::zlib-1.2.11-h62dcd97_3
+# update specs: ['numpy', 'matplotlib', 'seaborn', 'pandas']
