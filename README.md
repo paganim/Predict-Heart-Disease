@@ -18,4 +18,4 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf
 7. Exporting Model
 
 ## Best evaluation
-I got the best evaluation with LogisticRegression: 0.8852
+I got the best evaluation with LogisticRegression: 0.8852459016393442
